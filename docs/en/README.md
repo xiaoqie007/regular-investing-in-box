@@ -132,17 +132,17 @@ The core of the regular investing strategy is long-term holding. It's well-recog
 
 >**How long is "long-term"?**
 
-If we don't have an accurate answer to this question, we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts then the accuracy of our judgement will be severely impacted, just as multiplying 80% by itself 5 times will leave us with less than 32%. In course of reading this book, you will encounter several concepts that must be used together, and so they must be clearly and accurately defined in order to be useful.
+If we don't have an accurate answer to this question, we can't even really use the concept of "long-term". For any concept to be useful it must be clearly defined, and since we must combine concepts together, if we have multiple unclear concepts then the accuracy of our judgement will be severely impacted/imˈpaktid/, just as multiplying 80% by itself 5 times will leave us with less than 32%. In course of reading this book, you will encounter/enˈkoun(t)ər/ several concepts that must be used together, and so they must be clearly and accurately/ˈakyərit/ defined in order to be useful.
 
 Unlike most people, I have a fairly clear, accurate and useful definition of long-term:
 
 >Long-term means longer than **two full market cycles**.
 
-A clear and accurate definition of "long-term" thus depends on a clear and accurate definition of another concept: "market cycle". So what's a full market cycle? Let's use bitcoin's historical price chart as an example.
+A clear and accurate definition of "long-term" thus/T͟Həs/ depends on a clear and accurate definition of another concept: "market cycle". So what's a full market cycle? Let's use bitcoin's historical price chart as an example.
 
 ![Figure05](../images/Figure05.png)
 
-A full market cycle is composed of a period of falling price (Period B), and a period of rising price (Period A). In this chart we can see a full market cycle, with Period B beginning in December of 2013, when prices started falling, and Period A ending in December of 2017, when bitcoin reached its historical high. 
+A full market cycle is composed/kəmˈpōzd/ of a period of falling price (Period B), and a period of rising price (Period A). In this chart we can see a full market cycle, with Period B beginning in December of 2013, when prices started falling, and Period A ending in December of 2017, when bitcoin reached its historical high. 
 
 How can you tell when a market cycle begins? Actually, we can only make this determination **after the fact**. Since short term prices can rise and fall unpredictably, it's impossible to know when a high or low point for a given period has been reached. It's hard to know how long after the fact it will be before we can make the determination, but we can be sure that it will be long enough that the it will not be useful for short-term trading decisions.
 
@@ -152,21 +152,21 @@ On the same chart, I have marked the three full market cycles that I have person
 
 The are several details in this chart that are worth looking at closely. For example, we can clearly see, as I mentioned earlier, that bear markets are much, much longer than bull markets. 
 
-Why do we need to emphasize at least **two** market cycles? Because many people misunderstand **trends**. They see that today's price is higher than yesterday's, and that yesterday's price was higher than the day before, and they think they have identified an "upward trend". They then erroneously assume that tomorrow's price will be higher than today's. But it's actually impossible to judge a trend in the short term, even over the course of one entire cycle.
+Why do we need to emphasize/ˈemfəˌsīz/ at least **two** market cycles? Because many people misunderstand **trends**. They see that today's price is higher than yesterday's, and that yesterday's price was higher than the day before, and they think they have identified an "upward trend". They then erroneously/iˈrōnēəs/ assume/əˈso͞om/ that tomorrow's price will be higher than today's. But it's actually impossible to judge a trend in the short term, even over the course of one entire cycle.
 
 >Only after **two full cycles** can we make an **accurate** judgement about whether a trend is more likely to be upward or downward.
 
-Furthermore, please notice the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will every exceed its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely". Actually, this is precisely why investing is so interesting.
+Furthermore, please notice the use of "more likely to be" in the sentence above. Even after two full cycles, we still cannot be 100% sure about the future trend based on historical data. At this point in time (October 2019), bitcoin's price has still not returned to its historical high, and we cannot be 100% sure that Bitcoin will every exceed/ikˈsēd/ its historical high. We will only be able to make this determination after the fact –- long after the fact. In the end, from any point in time, we can only make investment decisions based on less than 100% certainty. Since the future is full of risk and unknown factors, we can only use terms such as "more likely". Actually, this is precisely why investing is so interesting.
 
-In the chart above, we can barely see the high reached in June of 2011. But if we separate each historical high into separate charts, we see that they look strikingly similar.
+In the chart above, we can barely/ˈbe(ə)rlē/ see the high reached in June of 2011. But if we separate each historical high into separate charts, we see that they look strikingly/ˈstrīkiNG/ similar.
 
 ![Figure07](../images/Figure07.png)
 
-Each of these charts looks quite similar to the overall historical chart, which is to say that even as I am in the midst of my fourth full cycle, even though I have made similar judgments based on "more likely" before, I still can't be completely sure this time. I still can only use "more likely" as the basis for my judgement. It's just that I've been quite lucky in that my previous three judgements based on "more likely" were proven to be correct.
+Each of these charts looks quite similar to the overall historical chart, which is to say that even as I am in the midst/mitst/ of my fourth full cycle, even though I have made similar judgments based on "more likely" before, I still can't be completely sure this time. I still can only use "more likely" as the basis for my judgement. It's just that I've been quite lucky in that my previous three judgements based on "more likely" were proven to be correct.
 
-Let's briefly summarize what we have discussed thus far:
+Let's briefly/ˈbrēflē/ summarize/ˈsəməˌrīz/ what we have discussed thus far:
 
-> * a period of rising or falling prices does not necessarily constitute a trend –- **it's impossible to determine a trend over the short term**;
+> * a period of rising or falling prices does not necessarily/ˈnesəˌserē/ constitute/ˈkänstəˌt(y)o͞ot/ a trend –- **it's impossible to determine a trend over the short term**;
 > * a period of falling prices (Period B) followed by a period of rising prices (Period A) constitutes a **full cycle**;
 > * we can take each **historical high** as the starting point for Period B of a full cycle;
 > * we can only determine the historical high of a period **after the fact**;
@@ -183,25 +183,25 @@ If we use this upgraded way of thinking to look at any price chart we will get a
 
 There's an easy way to understand how economic cycles are shaped:
 
->Economic cycles are shaped by participants in the economy coordinating well at some times and poorly at others.
+>Economic cycles are shaped by participants/pärˈtisəpənt/ in the economy coordinating well at some times and poorly at others.
 
 When many parties -– and "many" here refers to so many that some parties don't even know of the existence of others -– are communicating more and more efficiently, the length of cycles will become shorter and shorter, even if fluctuations, which occur when parties are not coordinating well, may never be completely eliminated.
 
-If we look at it from this perspective, we can easily understand why the Great Depression of the 1930s took so long to recover from (i.e., complete the cycle), yet the recovery from the Asian Financial Crises of the 1990s only took a few years, and the recovery from the worldwide recession brought about by the US subprime crisis was even faster. 
+If we look at it from this perspective/pərˈspektiv/, we can easily understand why the Great Depression/diˈpreSHən/ of the 1930s took so long to recover from (i.e., complete the cycle), yet the recovery from the Asian Financial Crises of the 1990s only took a few years, and the recovery from the worldwide recession/riˈseSHən/ brought about by the US subprime crisis was even faster. 
 
 The reason is simple and easily understood:
 
->The rapid flow of information makes worldwide cooperation easier and more seamless, so even though crises will continue to occur, **recoveries are becoming more rapid.**
+>The rapid/ˈrapid/ flow of information makes worldwide cooperation easier and more seamless, so even though crises will continue to occur, **recoveries are becoming more rapid.**
 
-This is also why blockchain assets see shorter fluctuation cycles. Over the past eight years, I've often heard people use the halving of bitcoin's block reward every four years as a way to distinguish bitcoin's cycles. Maybe that was useful early on, but, now that Bitcoin is no longer the only valuable blockchain asset, using the block reward halving as a basis for determining cycles has slowly lost significance.
+This is also why blockchain assets see shorter fluctuation/ˌfləkCHo͞oˈāSHən/ cycles. Over the past eight years, I've often heard people use the halving of bitcoin's block reward/riˈwôrd/ every four years as a way to distinguish/disˈtiNGgwiSH/ bitcoin's cycles. Maybe that was useful early on, but, now that Bitcoin is no longer the only valuable blockchain asset, using the block reward halving as a basis for determining cycles has slowly lost significance/sigˈnifikəns/.
 
-I think the reason why blockchain asset markets have shorter cycles than stock markets is due to the fact that the players in the market are clearly coordinating more efficiently. We can see this just from looking at the number of trading markets. There are only a few influential stock markets, but there are thousands of markets on which to trade blockchain assets, and trading continues 24 hours a day, 365 days a year. This type of coordination greatly exceeds the coordination of traditional securities markets. 
+I think the reason why blockchain asset markets have shorter cycles than stock markets is due to the fact that the players in the market are clearly coordinating more efficiently. We can see this just from looking at the number of trading markets. There are only a few influential/ˌinflo͞oˈenCHəl/ stock markets, but there are thousands of markets on which to trade blockchain assets, and trading continues 24 hours a day, 365 days a year. This type of coordination greatly exceeds/ikˈsēd/ the coordination of traditional securities/səˈkjʊrəti/ markets. 
 
 It is truly great news:
 
 >**Cycles are getting shorter and shorter.**
 
-Cycles in stock markets have already shrunk from decades to less than a decade, and they continue to shrink. Blockchain market cycles are already shorter, and they are also shrinking.
+Cycles in stock markets have already shrunk from decades to less than a decade, and they continue to shrink/SHriNGk/. Blockchain market cycles are already shorter, and they are also shrinking.
 
 In my view, long-term doesn't mean forever, but is a clearly defined concept of two or more full market cycles. In the stock market, two full market cycles will take about 10-15 years; in the blockchain market, two full market cycles will take six to eight years. Either way, they are both futures worth waiting on, right?
 
