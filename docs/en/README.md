@@ -209,7 +209,7 @@ In my view, long-term doesn't mean forever, but is a clearly defined concept of 
 
 For most people, money only has one use: consumption. Sadly, this is the basic reason why most people are unable to achieve financial independence. They have almost never thought seriously about money's second and much more important use: investment.
 
-For those who can only consume and don't understand investment, it's hard to escape from their original fate. They can only make money by selling their time, and the amount of time that they can sell is extremely limited –- we have much less time than we think. 
+For those who can only consume and don't understand investment, it's hard to escape from their original fate/fāt/. They can only make money by selling their time, and the amount of time that they can sell is extremely limited –- we have much less time than we think. 
 
 There is a set of data that can help us understand how little time we actually have to sell. If we take an average lifespan of 78 years...
 
@@ -218,22 +218,22 @@ There is a set of data that can help us understand how little time we actually h
 > * We sleep for 28.3 years;
 > * We work for only 10.5 years (*this is the time that most people are able to sell*);
 > * We spend 9 years watching TV, playing video games, and using social networks; 
-> * We spend 6 years doing chores;
+> * We spend 6 years doing chores/CHôr/;
 > * We spend 4 years eating and drinking;
 > * We only spend 3.5 years on education;
-> * We spend 2.5 years grooming;
-> * We spend 1.5 years on child carel
-> * We spend 1.3 years commuting.
+> * We spend 2.5 years grooming/gro͞om/;
+> * We spend 1.5 years on child care
+> * We spend 1.3 years commuting/kəˈmyo͞ot/.
 
-According to these estimates, we only have nine years left to allocate at will! The amount of time we have to sell is our work time of 10.5 years plus the nine years we spend on leisure. Even if we allocate all of those 9 years to paid work, we still haven't even doubled the time we have to sell. And we still sleep for longer than the time we have available to sell. Sleep is expensive!
+According to these estimates, we only have nine years left to allocate/ˈaləˌkāt/ at will! The amount of time we have to sell is our work time of 10.5 years plus the nine years we spend on leisure/lēZHər/. Even if we allocate all of those 9 years to paid work, we still haven't even doubled the time we have to sell. And we still sleep for longer than the time we have available to sell. Sleep is expensive!
 
 When I was young, I worked very hard just like everyone else.
 
 Upon graduating from college I started working in sales, and there were weeks in which I spent six nights sleeping on a train. I'd get off the train in the morning, find a place to shower and change clothes, spend the day running sales trainings, and then hop back on a train at night to head to the next city, where I'd start all over again.
 
-People who have known me for a long time know that I don't have holidays. This is because shortly after I graduated in 1995 I realized that there are so many holidays! In China, out of **365** days in the year, there are *115* legal holidays (including weekends)! That means we spend a third of the year resting! Something didn't seem right. Later I realized that "legal" holidays are established to limit corporations. If a corporation forces someone to work on a holiday without extra pay, it's illegal, but there's no limit on what an individual can do. There's no law at all that says, "today is a legal holiday, so if you don't rest you're breaking the law!" So, from that point on, I decided that I would have nothing to do with legal holidays. It's been 24 years since 1995, and I have done my best to ignore weekends and holidays. I just do what I want to each day! I've published a lot of books, and most of them have been written by myself over the Chinese New Year while everyone else is on vacation. I've worked very hard, haven't I?
+People who have known me for a long time know that I don't have holidays. This is because shortly after I graduated in 1995 I realized that there are so many holidays! In China, out of **365** days in the year, there are *115* legal holidays (including weekends)! That means we spend a third of the year resting! Something didn't seem right. Later I realized that "legal" holidays are established/iˈstabliSHt/ to limit corporations/ˌkôrpəˈrāSHən/. If a corporation forces someone to work on a holiday without extra pay, it's illegal, but there's no limit on what an individual can do. There's no law at all that says, "today is a legal holiday, so if you don't rest you're breaking the law!" So, from that point on, I decided that I would have nothing to do with legal holidays. It's been 24 years since 1995, and I have done my best to ignore weekends and holidays. I just do what I want to each day! I've published a lot of books, and most of them have been written by myself over the Chinese New Year while everyone else is on vacation. I've worked very hard, haven't I?
 
-About ten years ago, I suddenly realized what a waste of time it was to worry about hairstyles. Everybody spends a couple of hours to get their hair cut each time, and they often end up waiting for a long time at the barber. So I decided that I would cut my own hair. A good Phillips trimmer only costs about \$50, and you can use it for many years. So I've had the same hairstyle for the last decade -- a three millimeter buzzcut. It's easy to just use the trimmer every few days for a few minutes before I shower. Can you see how hard I work to save time?
+About ten years ago, I suddenly realized what a waste of time it was to worry about hairstyles. Everybody spends a couple of hours to get their hair cut each time, and they often end up waiting for a long time at the barber/ˈbärbər/. So I decided that I would cut my own hair. A good Phillips trimmer/ˈtrimər/ only costs about \$50, and you can use it for many years. So I've had the same hairstyle for the last decade -- a three millimeter buzzcut. It's easy to just use the trimmer every few days for a few minutes before I shower. Can you see how hard I work to save time?
 
 The numbers, however, are rather disappointing. By not having a holiday in 24 years, how much time have I freed up to sell? Even if I don't rest on holidays, I'm only likely to have four hours of effective work every day. If you've worked for yourself, you know that the amount of truly effective work time you can have in one day is quite limited. So how much effective work time have I created by having no holidays over the past 24 years?
 
@@ -243,21 +243,21 @@ Just over 10,000 hours. So how many years is that?
 
 > 11,040 ÷ (365 x 24) = 1.26
 
-You see? I've been so hard on myself, and all for what? All for merely *14%* more time than other people who work very hard but still take holidays. And what about the decision I made 10 years ago to cut my own hair? How much time have I saved with that? If you cut your hair once a month, and it takes 1.5 hours, so that's 18 hours per year. Over ten years, that's 180 hours. You see? I took such good care of my time and was so hard on myself, but I only saved 7.5 days! All that effort, and I only end up with *0.228%* more time than everybody else!
+You see? I've been so hard on myself, and all for what? All for merely/ˈmi(ə)rlē/ *14%* more time than other people who work very hard but still take holidays. And what about the decision I made 10 years ago to cut my own hair? How much time have I saved with that? If you cut your hair once a month, and it takes 1.5 hours, so that's 18 hours per year. Over ten years, that's 180 hours. You see? I took such good care of my time and was so hard on myself, but I only saved 7.5 days! All that effort, and I only end up with *0.228%* more time than everybody else!
 
-[Frank H. Knight](https://www.nytimes.com/2019/10/17/sports/basketball/nba-china-adam-silver.html), one of the most influential economists of the 20th century, has a famous postulation:
+[Frank H. Knight](https://www.nytimes.com/2019/10/17/sports/basketball/nba-china-adam-silver.html), one of the most influential/ˌinflo͞oˈenCHəl/ economists of the 20th century, has a famous postulation:
 
->Ownership of personal or material productive capacity is based upon a complex mixture of inheritance, luck and effort, probably in that order of relative importance.
+>Ownership/ˈōnərˌSHip/ of personal or material/məˈti(ə)rēəl/ productive/prō-,prəˈdəktiv/ capacity/kəˈpasitē/ is based upon a complex mixture/ˈmiksCHər/ of inheritance/inˈheritəns/, luck and effort, probably/ˈpräbəblē/ in that order of relative importance.
 
-Of course, this doesn't mean that effort isn't important. Some measure of success can be achieved through effort, but huge success depends on luck, and we all know that we can't control luck (or inheritance!). The problem, as we have seen, is that we have a limited amount of time that we can sell, so effort is of the least relative importance.
+Of course, this doesn't mean that effort isn't important. Some measure/ˈmeZHər/ of success can be achieved through effort, but huge success depends on luck, and we all know that we can't control luck (or inheritance!). The problem, as we have seen, is that we have a limited amount of time that we can sell, so effort is of the least relative importance.
 
-However, it's different if we use money to make money. **The core of investing is using money to make money, and money doesn't rest –- as long as you make the right investment, it works for you 24 hours a day, 365 days a year.** How can your sweat and tears compete with that?
+However, it's different if we use money to make money. **The core of investing is using money to make money, and money doesn't rest –- as long as you make the right investment, it works for you 24 hours a day, 365 days a year.** How can your sweat/swet/ and tears compete with that?
 
- The reason we admire Warren Buffett so much is due to the following fact: 
+ The reason we admire/ədˈmī(ə)r/ Warren Buffett so much is due to the following fact: 
 
 >Warren Buffett was born in 1930 and bought his first stock when he was 11. It's now 2019, so he has been investing for 78 years!
 >
->*78* years! The average person only lives 78 years, and they only have an extra nine years to allocate. But Buffett's money has already been working hard for him 24 hours a day, 365 days a year, for 78 years! 
+>*78* years! The average person only lives 78 years, and they only have an extra nine years to allocate/ˈaləˌkāt/. But Buffett's money has already been working hard for him 24 hours a day, 365 days a year, for 78 years! 
 
 It's not hard to understand what a huge difference investing can make. 
 
