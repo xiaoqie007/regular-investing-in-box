@@ -317,35 +317,35 @@ We're always trying to find ways to improve our strategies. Everyone wants the s
 
 > **any efforts to improve the strategy of regular investing are futile.**
 
-From when the BOX Regular Investing Practice Group was established in late July 2019, to October 9th, 2019, 3261 members have joined. After understanding the essence of the regular investing strategy, the group members know that most of the profit from regular investing comes from the long bear market. Because they have a different way of thinking, they now have a completely opposite take on the same world. Each time the price drops, they don't feel disappointment and fear, they feel happy and even excited, because they can buy more at a cheaper price. Their decisions are the opposite of the outside world.
+From when the BOX Regular Investing Practice Group was established in late July 2019, to October 9th, 2019, 3261 members have joined. After understanding the essence/ˈesəns/ of the regular investing strategy, the group members know that most of the profit from regular investing comes from the long bear market. Because they have a different way of thinking, they now have a completely opposite take on the same world. Each time the price drops, they don't feel disappointment and fear, they feel happy and even excited, because they can buy more at a cheaper price. Their decisions are the opposite of the outside world.
 
 Below is the historical price of BOX over the past few months:
 
 ![Figure10](../images/Figure10.png)
 
-The chart below adds the daily amount of newly-circulating BOX, which is the amount invested in BOX each day. To make the chart easier to read, the amount of newly-circulating BOX has been divided by 100,000:
+The chart below adds the daily amount of newly-circulating/ˈsərkyələr/ BOX, which is the amount invested in BOX each day. To make the chart easier to read, the amount of newly-circulating BOX has been divided by 100,000:
 
 ![Figure11](../images/Figure11.png)
 
 >Note 1: The charts were created with Google Sheets, and you can view the charts and data [here](https://docs.google.com/spreadsheets/d/1caNGqbFZKEjSPr9kf1gJhB2j8pLrHje0PsPZJKJdGIM/edit?usp=sharing).
 
->Note 2: The amount of newly-circulating BOX on September 2, 2019, was 221,010, but it really shouldn't count, because I alone bought 180,621 BOX on that day. I'm an old hand at regular investing, so of course I don't pay attention to daily fluctuations in price.
+>Note 2: The amount of newly-circulating BOX on September 2, 2019, was 221,010, but it really shouldn't count, because I alone bought 180,621 BOX on that day. I'm an old hand at regular investing, so of course I don't pay attention to daily fluctuations/ˌfləkCHo͞oˈāSHən/ in price.
 
-We can see that each time there is a large drop in price the amount of newly-circulating BOX greatly increases. The clearest example is found on the three days from September 25 to September 27, which saw newly-circulating BOX of 214,048, 114,240, and 114,505, respectively, with September 25 showing an increase of five times the normal amount! 
+We can see that each time there is a large drop in price the amount of newly-circulating BOX greatly increases. The clearest example is found on the three days from September 25 to September 27, which saw newly-circulating BOX of 214,048, 114,240, and 114,505, respectively/riˈspektivlē/, with September 25 showing an increase of five times the normal amount! 
 
-It's also clear from this data that people's reactions are late, because the drop in price actually happened several days earlier on September 22, when the price dropped from \$1.68 to \$1.41. As we can see in the chart, the increase in the amount of new BOX purchased always came days after the drop in price.
+It's also clear from this data that people's reactions/rēˈakSHən/ are late, because the drop in price actually happened several days earlier on September 22, when the price dropped from \$1.68 to \$1.41. As we can see in the chart, the increase in the amount of new BOX purchased always came days after the drop in price.
 
-Furthermore, the group members had listened to my classes, in which I repeatedly emphasized the following:
+Furthermore, the group members had listened to my classes, in which I repeatedly emphasized/ˈemfəˌsīz/ the following:
 
 > **Any efforts to improve the strategy of regular investing are futile.**
 
-Yet many of them still couldn't resist being driven by this simple thought: wouldn't it be better if I bought a little more when the price drops? 
+Yet many of them still couldn't resist/riˈzist/ being driven by this simple thought: wouldn't it be better if I bought a little more when the price drops? 
 
-Let's discuss why this "improvement" to the strategy of regular investment isn't actually an improvement at all. First of all, each time we use the current price as a reason for making a decision, we are always actually making the decision after the fact. Even more importantly, we are neglecting an important fact: the short-term direction of the price after we make our decision is an independent event, and not tied to the prior change in price. After we buy, the price could go up, go down, or stay the same -- we don't know!
+Let's discuss why this "improvement" to the strategy of regular investment isn't actually an improvement at all. First of all, each time we use the current price as a reason for making a decision, we are always actually making the decision after the fact. Even more importantly, we are neglecting/niˈglekt/ an important fact: the short-term direction of the price after we make our decision is an independent event, and not tied to the prior/ˈprīər/ change in price. After we buy, the price could go up, go down, or stay the same -- we don't know!
 
 Someone who increased their investment amount in July after a price drop would have discovered in September that their "improvement" to the strategy was useless and actually lost them money, because the increased investment in July actually ended up increasing their average cost.
 
-Whether or not an investor has a clear grasp of statistical probability is the factor that has the greatest influence on the accuracy of their decisions. Sadly, too many people don't pay enough attention to this basic knowledge, and they have no idea that this lack of knowledge causes them so much trouble and grief.
+Whether or not an investor has a clear grasp of statistical probability is the factor that has the greatest influence on the accuracy of their decisions. Sadly, too many people don't pay enough attention to this basic knowledge, and they have no idea that this lack of knowledge causes them so much trouble and grief/grēf/.
 
 A person who understands statistical probability couldn't help but laugh at the following phenomenon:
 
@@ -356,17 +356,17 @@ Someone made a chart, and did some programming in Python, to support the followi
 >After analyzing every 350-day period of weekly regular investing in bitcoin over the 900-day period from July 17, 2010, to January 2, 2013, the following conclusions have been reached:
 >
 >> Investing on Monday performed 1.2% better than the average of the other days.
->> Furthermore, it is best to avoid Sunday, as Sunday performed 0.8% worse than average, perhaps because people have more time on Sunday, or perhaps because they feel more optimistic on Sunday.
+>> Furthermore, it is best to avoid Sunday, as Sunday performed 0.8% worse than average, perhaps because people have more time on Sunday, or perhaps because they feel more optimistic/ˌäptəˈmistik/ on Sunday.
 
-Are these sorts of conclusions meaningful? It's basically impossible to use logic to convince people who don't understand the independence of random events, but in [an article written in 1984](https://g.co/kgs/kwb7vc), Warren Buffett gave a fun and yet deep example that might help:
+Are these sorts of conclusions meaningful? It's basically impossible to use logic/ˈläjik/ to convince/kənˈvins/ people who don't understand the independence of random events, but in [an article written in 1984](https://g.co/kgs/kwb7vc), Warren Buffett gave a fun and yet deep example that might help:
 
->I would like you to imagine a national coin-flipping contest. Let’s assume we get 225 million Americans up tomorrow morning and we ask them all to wager a dollar. They go out in the morning at sunrise, and they all call the flip of a coin. If they call correctly, they win a dollar from those who called wrong. Each day the losers drop out, and on the subsequent day the stakes build as all previous winnings are put on the line. After ten flips on ten mornings, there will be approximately 220,000 people in the United States who have correctly called ten flips in a row. They each will have won a little over \$1,000.
+>I would like you to imagine/iˈmajən/ a national coin-flipping contest. Let’s assume we get 225 million Americans up tomorrow morning and we ask them all to wager a dollar. They go out in the morning at sunrise, and they all call the flip of a coin. If they call correctly, they win a dollar from those who called wrong. Each day the losers drop out, and on the subsequent/ˈsəbsəkwənt/ day the stakes build as all previous winnings are put on the line. After ten flips on ten mornings, there will be approximately/əˈpräksəmətlē/ 220,000 people in the United States who have correctly called ten flips in a row. They each will have won a little over \$1,000.
 >
->Now this group will probably start getting a little puffed up about this, human nature being what it is. They may try to be modest, but at cocktail parties they will occasionally admit to attractive members of the opposite sex what their technique is, and what marvelous insights they bring to the field of flipping.
+>Now this group will probably start getting a little puffed/pəft/ up about this, human nature being what it is. They may try to be modest/ˈmädəst/, but at cocktail/ˈkäkˌtāl/ parties they will occasionally/əˈkāZHənl-ē/ admit to attractive/əˈtraktiv/ members of the opposite sex what their technique is, and what marvelous/ˈmärv(ə)ləs/ insights/ˈinˌsīt/ they bring to the field of flipping.
 >
->Assuming that the winners are getting the appropriate rewards from the losers, in another ten days we will have 215 people who have successfully called their coin flips 20 times in a row and who, by this exercise, each have turned one dollar into a little over \$1 million. \$225 million would have been lost, \$225 million would have been won.
+>Assuming that the winners are getting the appropriate rewards/riˈwôrd/ from the losers, in another ten days we will have 215 people who have successfully called their coin flips 20 times in a row and who, by this exercise, each have turned one dollar into a little over \$1 million. \$225 million would have been lost, \$225 million would have been won.
 >
->By then, this group will really lose their heads. They will probably write books on “How I turned a Dollar into a Million in Twenty Days Working Thirty Seconds a Morning.” Worse yet, they’ll probably start jetting around the country attending seminars on efficient coin-flipping and tackling skeptical professors with, “If it can’t be done, why are there 215 of us?”
+>By then, this group will really lose their heads. They will probably write books on “How I turned a Dollar into a Million in Twenty Days Working Thirty Seconds a Morning.” Worse yet, they’ll probably start jetting around the country attending seminars/ˈseməˌnär/ on efficient/iˈfiSHənt/ coin-flipping and tackling skeptical/ˈskeptikəl/ professors with, “If it can’t be done, why are there 215 of us?”
 
 In addition to not fitting our basic understanding of statistical probability, another reason why "invest on Monday and not Sunday" is unlikely to work is the following:
 
