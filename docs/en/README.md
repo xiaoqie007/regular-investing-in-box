@@ -444,11 +444,11 @@ Of course, there's yet another reason:
 
 When people talk about **value investing** and **trend investing**, they often mistakenly see them as opposites. In fact, they are only opposites when viewed from a short-term perspective. 
 
-For regular investors, however, who always view things from a long-term perspective, value investing and trend investing are not opposites. In the long term, which is to say after two full market cycles, value investments will show a trend of compound growth, and investments that trend upward over the long term will also certainly be valuable. A simple change in perspective can cause the relationship between two terms to be completely opposite!
+For regular investors, however, who always view things from a long-term perspective, value investing and trend investing are not opposites. In the long term, which is to say after two full market cycles, value investments will show a trend of compound/ˈkämˌpound/ growth, and investments that trend upward over the long term will also certainly be valuable. A simple change in perspective can cause the relationship between two terms to be completely opposite!
 
 I often say the following:
 
->Don't have a blind faith in value investing.
+>Don't have a blind faith/fāTH/ in value investing.
 
 I also often say this:
 
@@ -458,23 +458,23 @@ Why do I feel that I always have to remind people of this? Because I often see t
 
 >Most people are clearly (short-term) trend investors, because the bull market was obviously the reason they entered the market! But as soon as they get trapped by the falling prices in the bear market, they suddenly become value investors!
 
-So, in most situations, people who mention the concept of value investing to you actually only became value investors after getting trapped in the market. I can also guarantee to you that once the market picks up, they will suddenly turn into what they would call trend investors.
+So, in most situations, people who mention the concept of value investing to you actually only became value investors after getting trapped in the market. I can also guarantee/ˌgarənˈtē/ to you that once the market picks up, they will suddenly turn into what they would call trend investors.
 
-This is truly a fascinating phenomenon. They completely fail to understand that the huge loss and awkward situation that they are facing are entirely due to having a different perspective. Even sadder is that these people, who use the short term as the basis for their decisions, also don't know that they have no way of understanding the free and correct advice on the market that is available from those most successful investors who can be blindly followed. And it's all due to a different perspective! Because those "truly successful investors who have shown excellent returns over the long term" all look at things from a long-term perspective.
+This is truly a fascinating/ˈfasəˌnātiNG/ phenomenon/-nən,fəˈnäməˌnän/. They completely fail to understand that the huge loss and awkward/ˈôkwərd/ situation that they are facing are entirely due to having a different perspective. Even sadder is that these people, who use the short term as the basis for their decisions, also don't know that they have no way of understanding the free and correct advice on the market that is available from those most successful investors who can be blindly followed. And it's all due to a different perspective! Because those "truly successful investors who have shown excellent returns over the long term" all look at things from a long-term perspective.
 
 To take it a step further, **trend investing is better than value investing when viewed from a long-term perspective**.
 
 Even though Benjamin Graham's value investing thesis is obviously correct, few people notice that it has a hidden limitation:
 
->According to his thesis, you must always pay attention to the current price.
+>According to his thesis/ˈTHēsis/, you must always pay attention to the current price.
 
 Behind this hidden limitation is an even more deeply hidden factor:
 
 >Even though it is possible to determine whether the current price is lower than the current value, it's nearly impossible to determine the future price and value, especially the price and value after two full cycles.
 
-It's an almost impossible feat to both pay attention to the details of the present and seriously consider everything that could happen in the distant future. This is the key reason why truly successful value investors are so rare. A good analogy is the saying that if you wear one watch you'll basically know what time it is, even if it's a few minutes slow or a few minutes fast, but if you wear two watches you'll be very mixed up.
+It's an almost impossible feat/fēt/ to both pay attention to the details of the present and seriously consider everything that could happen in the distant future. This is the key reason why truly successful value investors are so rare. A good analogy is the saying that if you wear one watch you'll basically know what time it is, even if it's a few minutes slow or a few minutes fast, but if you wear two watches you'll be very mixed up.
 
-According to value investing theory, you must work hard to find an investment with a price below its actual value. But when will you sell it? According to the theory, once its price exceeds its actual value you should sell it, whether it's ten days or ten years after you purchased it. 
+According to value investing theory, you must work hard to find an investment with a price below its actual value. But when will you sell it? According to the theory, once its price exceeds its actual value you should sell it, whether it's ten days or ten years after you purchased/ˈpərCHəs/ it. 
 
 Following this theory, even Warren Buffett will make mistakes. His most famous mistake was his investment in Disney -- he actually made two mistakes trading Disney stock. In 1966, 36-year-old Buffett met Disney founder Walt Disney in California. Following the meeting, Buffett bought 5% of Disney ([NYSE:DIS](https://www.google.com/search?q=NYSE:+DIS)) for \$4 million at a price of \$0.31 per share.
 
@@ -482,11 +482,11 @@ Following this theory, even Warren Buffett will make mistakes. His most famous m
 
 >Note: Historical data is from [Yahoo Finance (DIS)](https://finance.yahoo.com/quote/dis), and the chart above was created in Google Sheets; you can view the data and chart [here](https://docs.google.com/spreadsheets/d/1Vni-yvkOk7FPixEzQjGa4T7qLa-DzpaQuwlO0xTzrwI/edit?usp=sharing).
 
-In his [1995 investor letter](https://www.berkshirehathaway.com/letters/1995.html), Buffett relayed this story. He bought Disney stock in 1966 at \$0.31 per share, and then sold it a year later for \$0.48 per share, making a profit of 50%. Over the next thirty years, Buffett could only watch as Disney stock rose, reaching \$65 in 1995. 
+In his [1995 investor letter](https://www.berkshirehathaway.com/letters/1995.html), Buffett relayed/rēˈlā/ this story. He bought Disney stock in 1966 at \$0.31 per share, and then sold it a year later for \$0.48 per share, making a profit/ˈpräfit/ of 50%. Over the next thirty years, Buffett could only watch as Disney stock rose, reaching \$65 in 1995. 
 
-But the story was not over. In 1995, Buffett helped Disney purchase Capital Cities/ABC, which he was a shareholder of, and Buffett once again ended up with a 3.6% stake in Disney! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that, had Buffett continued to hold 8.3% of Disney through 2019, his shares would be worth \$21 billion, and he would have received \$1.5 billion in dividends.
+But the story was not over. In 1995, Buffett helped Disney purchase/ˈpərCHəs/ Capital Cities/ABC, which he was a shareholder of, and Buffett once again ended up with a 3.6% stake in Disney! He sold his shares within three years, though, and missed out as Disney's stock continued to rise up to \$129 in October of 2019. [Business Insider calculated](https://markets.businessinsider.com/news/stocks/warren-buffett-made-20-billion-mistake-by-selling-disney-twice-2019-8-1028484967) that, had Buffett continued to hold 8.3% of Disney through 2019, his shares would be worth \$21 billion, and he would have received \$1.5 billion in dividends/ˈdiviˌdend/.
 
-Of course, this story doesn't mean that Buffett failed in his investment, and he certainly didn't actually "lose" \$22.5 billion. After all, he made a profit on Disney, and he didn't just spend the money after selling -- he kept investing according to his strategy, and he has a 55-year track record of around 25% returns. Over the past 53 years, not accounting for dividends, Disney has returned just over 19% compounded annually. If dividends are taken in to account, Buffett would have been better off holding Disney, but he certainly didn't "lose" as much trading Disney as some people think.
+Of course, this story doesn't mean that Buffett failed in his investment, and he certainly didn't actually "lose" \$22.5 billion. After all, he made a profit on Disney, and he didn't just spend the money after selling -- he kept investing according to his strategy, and he has a 55-year track/trak/ record of around 25% returns. Over the past 53 years, not accounting for dividends/ˈdiviˌdend/, Disney has returned just over 19% compounded/ˈkämˌpound/ annually. If dividends are taken in to account, Buffett would have been better off holding Disney, but he certainly didn't "lose" as much trading Disney as some people think.
 
 What this story really tells us is that, over at least two full cycles, value investing, which requires constant focus on price, is not necessarily better than long-term trend investing.
 
@@ -494,17 +494,17 @@ Therefore, **regular investors focus more on the overall trend**. Even though we
 
 >If the correct trend is chosen, then while the difference between price and value is not unimportant, it's not as important as people think.
 
-With a focus on long-term trends and the requirement of only focusing on the long term, regular investment targets must be chosen in a different way. Compared to many other investors, regular investors have an extra screening criteria:
+With a focus on long-term trends and the requirement of only focusing on the long term, regular investment targets must be chosen in a different way. Compared to many other investors, regular investors have an extra screening/ˈskrēniNG/ criteria:
 
->Sustained growth over the long term.
+>Sustained/səˈstān/ growth over the long term.
 
 Don't discount the importance of "one extra criteria".
 
 Amazon ([NASDAQ: AMZN](https://finance.yahoo.com/quote/AMZN/)) currently has the highest market cap of any e-commerce company in the world.  According to [Morningstar's calculations](http://performance.morningstar.com/stock/performance-return.action?t=AMZN), it has provided investors with a compound yearly return of 40.42% over the past five years. Over the past 15 years, the compound yearly return has been 28.51%.
 
-Have you thought about why Amazon started by selling books, even though there were so many other potential items to sell? Aside from the fact that the book market is a large market, and the fact that people need and want to buy books frequently, there is one extra screening criteria that the book market passes: once you have sold a book, you very rarely need to provide customer service. Just this one extra criteria eliminated 99.99% of the other choices!
+Have you thought about why Amazon started by selling books, even though there were so many other potential/pəˈtenCHəl/ items to sell? Aside from the fact that the book market is a large market, and the fact that people need and want to buy books frequently/ˈfrēkwəntlē/, there is one extra screening criteria that the book market passes: once you have sold a book, you very rarely need to provide customer service. Just this one extra criteria eliminated 99.99% of the other choices!
 
-Regular investors can only chose investments that grow sustainably over the long term (of course, the more growth the better!). Just this one seemingly simple criteria eliminates 99.99% of the options, because, strictly speaking, there is no one individual investment that we can be sure will meet this criteria, no matter how good it looks now. This is because companies are just like people:
+Regular investors can only chose investments that grow sustainably/səˈstān/ over the long term (of course, the more growth the better!). Just this one seemingly/ˈsēmiNGlē/ simple criteria eliminates 99.99% of the options, because, strictly speaking, there is no one individual investment that we can be sure will meet this criteria, no matter how good it looks now. This is because companies are just like people:
 
 >In the long run, we are all dead. -- John Maynard Keynes
 
