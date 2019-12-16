@@ -512,17 +512,17 @@ So what should a regular investor do?
 
 ### 2.3 A Long-term Perspective and Macro Observations
 
-Everyone can understand how difficult it is to pick the best possible investment, especially in the midst of price fluctuations. It's as difficult as a world champion archer standing on a boat being rocked by waves in the middle of the ocean hitting the bullseye on a target on the shore.
+Everyone can understand how difficult it is to pick the best possible investment, especially in the midst of price fluctuations. It's as difficult as a world champion/ˈCHampēən/ archer/ˈärCHər/ standing on a boat being rocked by waves in the middle of the ocean/ˈōSHən/ hitting the bullseye/ˈbo͝olzī/ on a target on the shore/SHôr/.
 
 Only investing in one investment also entails opportunity cost. Time and money are limited resources, and if you use them in one way you can't use them in another. So, if you invested in A but B performs better, the opportunity cost of your investment decision can be calculated. 
 
-Fortunately, we have another simple, direct, brutal and effective solution:
+Fortunately/ˈfôrCHənət/, we have another simple, direct, brutal and effective solution:
 
 >Invest in everything.
 
 This sounds a little bit crazy, and perhaps a bit stupid, but let's put aside whether it's actually crazy and/or stupid, and first ask: Is it possible to invest in everything? The answer is definitely yes! The [MSCI World Index](https://en.wikipedia.org/wiki/MSCI_World) tracks the price of 1,650 mid- and high-cap stocks in 23 developed countries. If we actually invested in this index, what would our results be?
 
->Note: It's possible to buy ETFs that track various world stock indexes. The iShares MSCI World ETF (NYSEARCA: [URTH](https://www.investopedia.com/markets/etfs/urth/)) tracks the MSCI World Index; the iShares MSCI ACWI ETF (NASDAQ: [ACWI](https://www.investopedia.com/markets/quote?tvwidgetsymbol=acwi)) tracks the MSCI All Country World Index, which includes emerging markets; and the Vanguard Total World Stock ETF (NYSEARCA: [VT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=vt)), tracks the FTSE Global All Cap World Index, which also includes developed and emerging markets.
+>Note: It's possible to buy ETFs that track various world stock indexes. The iShares MSCI World ETF (NYSEARCA: [URTH](https://www.investopedia.com/markets/etfs/urth/)) tracks the MSCI World Index; the iShares MSCI ACWI ETF (NASDAQ: [ACWI](https://www.investopedia.com/markets/quote?tvwidgetsymbol=acwi)) tracks the MSCI All Country World Index, which includes emerging/iˈmərj/ markets; and the Vanguard Total World Stock ETF (NYSEARCA: [VT](https://www.investopedia.com/markets/quote?tvwidgetsymbol=vt)), tracks the FTSE Global All Cap World Index, which also includes developed and emerging markets.
 
 ![Figure14](../images/Figure14.png)
 
@@ -539,7 +539,7 @@ Investing in the S&P 500, with an average compound growth rate (ACGR) of 9%, per
 > * The US grew faster than the world;
 > * emerging markets grew faster than the US.
 
-Now we can see that, when we choosing investments, in addition to "one" (quite dangerous) and "all" (mediocre), there is another choice: "part". So which parts are worth choosing? I like this analogy even better than "betting on the world": 
+Now we can see that, when we choosing investments, in addition to "one" (quite dangerous) and "all" (mediocre/ˌmēdēˈōkər/), there is another choice: "part". So which parts are worth choosing? I like this analogy/əˈnaləjē/ even better than "betting on the world": 
 
 >Choosing investments is like choosing a method of transportation. If you walk, you can still get there, it will just take longer. But if you have a bike you shouldn't walk, if you have a car you shouldn't bike, and if you have an airplane you shouldn't drive -- you should take whatever will get you there the fastest.
 
@@ -549,13 +549,13 @@ It's extremely difficult to pick the best investment out of tens of thousands of
 
 >Making money is easy. All you need to have done is have invested in the Internet 20 years ago, because at that time the internet was the future of the world. Now, you should invest in AI, because AI is the future of the world. 
 
-Actually, I have already designed a no-load, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion:
+Actually, I have already designed a no-load, no-management-fee index fund. The working name is "Odyssey", and it should be issued in the US in October of 2020. It will be made up of about 30 investments, all in listed companies in the US and China. There is only one selection criterion/krīˈti(ə)rēən/:
 
 >"Who has constantly growing user data?"
 
 I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
 
->No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
+>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient/səˈfiSHənt/ profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile/ˈfərtl/ ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
 When I started to buy lots of bitcoin in 2011, many people thought I was crazy. They all said the same thing: "Isn't it too risky?" They felt like it was too risky, but I had the opposite feeling:
 
@@ -563,13 +563,13 @@ When I started to buy lots of bitcoin in 2011, many people thought I was crazy. 
 
 This was the logical reasoning behind this feeling:
 
->We've seen the incredible changes brought about by the Internet allowing information to flow rapidly with basically zero cost, so what kind of incredible changes would be brought about if assets could also flow rapidly with basically zero cost?
+>We've seen the incredible changes brought about by the Internet allowing information to flow rapidly/ˈrapid/ with basically zero cost, so what kind of incredible changes would be brought about if assets could also flow rapidly with basically zero cost?
 >
->After ten years, the Internet is still bringing about massive change. Even if it isn't exactly what we initially imagined, it's still amazing. In the same way, ten years from now the financial internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
+>After ten years, the Internet is still bringing about massive/ˈmasiv/ change. Even if it isn't exactly what we initially/iˈniSHəlē/ imagined, it's still amazing. In the same way, ten years from now the financial internet is extremely likely to have brought about incredible change, even if we can't know exactly what those changes will be...
 
-So for me at the time, blockchain was the future, blockchain was a trend, and blockchain would likely be the fastest growing industry. Looking back from eight years later, it has become the fastest growing industry, and my investment has grown at a scale not even imaginable at the time.
+So for me at the time, blockchain was the future, blockchain was a trend/trend/, and blockchain would likely be the fastest growing industry. Looking back from eight years later, it has become the fastest growing industry, and my investment has grown at a scale/skāl/ not even imaginable at the time.
 
-You see? "Choosing the fastest growing sector" is the most simple, direct, brutal and effective method. It's also the most direct conclusion that can be derived from macro observation. For those who can't think based on the long term, this statement isn't understandable as an effective piece of advice. To them, it seems stupid, and you can imagine them yelling out, "Who doesn't know this!?" Yes, everyone knows this, but not everyone thinks based on the long term, so they are not used to macro observation, and so of course they can't understand the power of long-term macro observation. 
+You see? "Choosing the fastest growing sector" is the most simple, direct, brutal and effective method. It's also the most direct conclusion that can be derived from macro observation. For those who can't think based on the long term, this statement isn't understandable as an effective piece of advice. To them, it seems stupid, and you can imagine/iˈmajən/ them yelling out, "Who doesn't know this!?" Yes, everyone knows this, but not everyone thinks based on the long term, so they are not used to macro observation, and so of course they can't understand the power of long-term macro observation. 
 
 Can we take it further, and ask ourselves, "Can I choose the fastest growing company in this fastest growing sector?" I don't think it's worth it, because doing so is essentially returning to the most dangerous situation, and becoming more vulnerable to regression to the mean. The core skill of macro observation is very simple: don't go to extremes. The reason is that we hate risk, and we hate systematic risk even more. The core strategy is always "a part of a part":
 
@@ -593,7 +593,7 @@ The largest circle represents the entire world, and you are standing in the midd
 >
 >But then you realize that you could use the same basic rationale to adjust your general direction. If there are regions that are growing more rapidly, then there must also be sectors within those regions that are growing the most rapidly. The same logic still works.
 >
->You've already made three guesses: 1) a net might work better than an arrow; 2) certain regions might grow more rapidly than the whole; and 3) some sectors within those regions might grow even more rapidly. If you keep guessing, your accuracy will certainly suffer. So what should you do? Don't use an arrow, use a shotgun! This way, although your accuracy will suffer, you'll be more likely, and perhaps almost certain, to hit something. Anyway, since it's so far away, no one can be completely accurate, but after so many adjustments, you're more likely than others to be accurate!
+>You've already made three guesses: 1) a net might work better than an arrow; 2) certain regions might grow more rapidly than the whole; and 3) some sectors within those regions might grow even more rapidly. If you keep guessing, your accuracy/ˈakyərəsē/ will certainly suffer. So what should you do? Don't use an arrow, use a shotgun! This way, although your accuracy will suffer, you'll be more likely, and perhaps almost certain, to hit something. Anyway, since it's so far away, no one can be completely accurate, but after so many adjustments, you're more likely than others to be accurate!
 >
 >In the end you have another discovery, which is that using an arrow is never the best choice...
 
