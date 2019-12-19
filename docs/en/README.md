@@ -678,61 +678,62 @@ Below, I will take BOX as an example, because it is a combination of investments
 
 > **Risk Warning** 
 
-> The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor much use their own money and time over the long term to take responsibility for their own choices. Please be cautious.
+> The strategy of regular investment is objectively correct, but it is impossible to remove subjective judgement from the choice of investments for regular investing. So the choice of investments for regular investing is the responsibility of each investor. Each investor much use their own money and time over the long term to take responsibility for their own choices. Please be cautious/ˈkôSHəs/.
 >
-> This section is primarily about how I chose BTC, EOS, and XIN to be the components of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
+> This section is primarily about how I chose BTC, EOS, and XIN to be the components/kəmˈpōnənt/ of BOX, and it necessarily contains some of my own subjective judgements. You must use your own objective understanding of the objective world to choose your own investments.
 >
-> **Conflict of Interest Notice**
+> **Conflict of Interest/ˈint(ə)rist/ Notice**
 >
 > * I am a long-term holder of BTC (from May of 2011)
-> * I was an angel investor in BlockOne, which developed EOS (May of 2017)
+> * I was an angel/ˈānjəl/ investor in BlockOne, which developed EOS (May of 2017)
 > * I was an angel investor in Mixin Network (October of 2017)
 
-After eight years of observation, thinking and practice, I think that blockchain technology has a development path that is slowly becoming apparent: 
+After eight years of observation/ˌäbzərˈvāSHən/, thinking and practice, I think that blockchain technology has a development path that is slowly becoming apparent/əˈpe(ə)r-/: 
 
->Trusted ledger (BTC) → Trusted platform for code (ETH/EOS) → Trusted execution environment (Mixin) → Trusted hardware (?) ...
+>Trusted ledger/ˈlejər/ (BTC) → Trusted platform/ˈplatfôrm/ for code (ETH/EOS) → Trusted execution/ˌeksiˈkyo͞oSHən/ environment (Mixin) → Trusted hardware (?) ...
 
-[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent, immutable, distributed, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines a Trusted Execution Environment (TEE) and a Directed Acyclic Graph (DAG) to create an open, transparent, immutable, distributed digital assets storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
+[Bitcoin](https://bitcoin.org/) was the world's first blockchain application. At its core it is a open, transparent/tranˈspe(ə)rənt/, immutable, distributed/disˈtribyo͞ot/, trusted ledger. Projects such as [Ethereum](https://www.ethereum.org) and [EOS](https://eos.io), which came along later, have the goal of becoming a blockchain application platform, which is to say that application code can be written to and executed/ˈeksiˌkyo͞ot/ on an open, transparent, immutable, distributed, trusted ledger. Putting a ledger on a blockchain allowed for a trusted ledger, and putting application code on a blockchain allowed for trusted code. [Mixin Network](https://mixin.one) combines/ˈkämˌbīn/ a Trusted Execution Environment (TEE) and a Directed Acyclic/āˈsīklik/ Graph/graf/ (DAG) to create an open, transparent, immutable, distributed digital assets storage network, or a trusted execution environment. Maybe in the near future we will also see trusted hardware.
 
-The reasons for not choosing Ethereum are technical. It currently uses a [Proof-of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work) consensus mechanism, and this type of consensus mechanism, which measures confirmations in minutes, is fundamentally unsuitable for an application platform. Ethereum's experience over the past three years has shown that this flaw cannot be resolved in a PoW system. Even if Ethereum switches to a Proof-of-Stake (PoS) system, it will necessarily require a hard fork. Ethereum already underwent a poorly considered hard fork in 2017 that gave birth to Ethereum Classic, which has no clear use case. All of this is to say that investors in Ethereum are faced with a great amount of risk.
+The reasons for not choosing Ethereum are technical. It currently/ˈkərəntlē/ uses a [Proof-of Work (PoW)](https://en.wikipedia.org/wiki/Proof_of_work) consensus/kənˈsensəs/ mechanism/mekəˌnizəm/, and this type of consensus mechanism, which measures/
+/ confirmations/ˌkänfərˈmāSHən/ in minutes, is fundamentally/ˌfəndəˈmentl-ē/ unsuitable for an application platform. Ethereum's experience over the past three years has shown that this flaw cannot be resolved in a PoW system. Even if Ethereum switches/swiCH/ to a Proof-of-Stake (PoS) system, it will necessarily require a hard fork. Ethereum already underwent a poorly considered hard fork in 2017 that gave birth to Ethereum Classic, which has no clear use case. All of this is to say that investors in Ethereum are faced with a great amount of risk.
 
 There is one final reason why I chose these investments. From their inception until they are widely accepted, almost all technologies go through her following three stages:
 
 >Inception → Adoption by businesses (2B) → Adoption by individuals (2C)
 
-From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. One of Mixin Messenger's most important components, which is a base-layer feature of Mixin Network's public chain, is a distributed, multi-coin wallet with the best user experience in the industry. 
+From this perspective, EOS is a blockchain platform for businesses, and Mixin Network's first dApp, Mixin Messenger, is a platform for individuals. One of Mixin Messenger's most important components/kəmˈpōnənt/, which is a base-layer feature of Mixin Network's public chain, is a distributed/disˈtribyo͞ot/, multi-coin wallet with the best user experience in the industry. 
 
-Furthermore, these three investments have reached the "undeniable" stage. They of course haven't been accepted by everyone, but no one can deny their value. This is the best time for regular investors to enter the market.
+Furthermore, these three investments have reached the "undeniable/ˌəndiˈnīəbəl/" stage/stāj/. They of course haven't been accepted by everyone, but no one can deny/diˈnī/ their value. This is the best time for regular investors to enter the market.
 
-Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued in the second half of 2020, as another example. As I mentioned it in a previous chapter:
+Let's take Odyssey, the no-load, no-management-fee stock ETF that will be issued/ˈiSHo͞o/ in the second half of 2020, as another example. As I mentioned it in a previous chapter:
 
->I agree with Sun Zhengyi's point of view, and believe that in the foreseeable future AI will be the best industry. However, my point of view is slightly different. For instance, I believe the following: 
+>I agree with Sun Zhengyi's point of view, and believe that in the foreseeable/fôrˈsēəbəl/ future AI will be the best industry. However, my point of view is slightly/ˈslītlē/ different. For instance, I believe the following: 
 >
->>No matter how good the algorithm is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient profit-making ability. If in the future algorithms are large trees, then growing amounts of data are fertile ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
+>>No matter how good the algorithm/ˈalgəˌriT͟Həm/ is, it needs data to feed it. Public companies who have large and growing amounts of user data already have sufficient/səˈfiSHənt/ profit-making/ˈpräfit/ ability. If in the future algorithms are large trees, then growing amounts of data are fertile/ˈfərtl/ ground. Without fertile ground, the trees can't grow. Most algorithm companies will in the end be used by large companies with data.
 
 The main point is in this sentence:
 
 >Most algorithm companies will in the end be used by large companies with data.
 
-This sentence is making a judgment about an obvious trend that is in accordance with the trend. In this sector, this will definitely happen, so we should be prepared in advance.
+This sentence is making a judgment about an obvious trend that is in accordance/əˈkôrdns/ with the trend. In this sector, this will definitely/ˈdefənitlē/ happen, so we should be prepared in advance.
 
-There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistency beaten the market over the long term. There's a joke that shows the silliness of blind adherents to "efficient market theory":
+There has long been debate in the investment world about whether *alpha* -- results that beat the market -- actually exists, even though rare investors such as Warren Buffet, Joel Greenblatt and Ray Dalio have consistency/kənˈsistənsē/ beaten/ˈbētn/ the market over the long term. There's a joke that shows the silliness of blind adherents/adˈhi(ə)rənt/ to "efficient market theory":
 
->A student saw a hundred dollar bill on the ground and exclaimed to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, and said, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
+>A student saw a hundred dollar bill on the ground and exclaimed/ikˈsklām/ to his professor, "Look! Is that a hundred dollar bill?" The professor didn't even deign to look, and said, "That's impossible! If it were really a hundred dollar bill, somebody would have picked it up a long time ago."
 
-If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
+If the market were 100% efficient, then *alpha* could not exist. The problem is that, if we look at any given moment in the market in isolation/ˌīsəˈlāSHən/, it's 100% inefficient. Price and value sometimes matching up doesn't mean anything -- a broken clock is right twice a day! If we put all of the individual moments back together, then over the long term the market should be efficient, but how long is long term? No one knows. If we look at it from the perspective/pərˈspektiv/ of a regular investor, after two full cycles, the variance between the current price and the historical price at any given moment will seem even greater.
 
-Obviously, I believe that *alpha* exists, and I'm always thinking about how find better strategies to create it. If you do well, *alpha* is positive; if you do poorly, *alpha* is negative. As a regular investor, your final results can be described by the following formula:
+Obviously, I believe that *alpha* exists, and I'm always thinking about how find better strategies/ˈstratəjē/ to create it. If you do well, *alpha* is positive; if you do poorly, *alpha* is negative. As a regular investor, your final results can be described by the following formula:
 
 >**p = δ + α - γ**
 
 **p** represents your final performance. **δ**, or *delta*, the fourth letter of the Greek alphabet, represents the performance of the overall market. **γ**, or *gamma*, the third letter of the Greek alphabet, is borrowed from [a concept](https://www.morningstar.com/content/dam/marketing/shared/research/foundational/831611-GammaEfficientPortfolio.pdf) introduced by Morningstar in 2013. My definition of *gamma*, however, is slightly different. Here, *gamma* refers to returns that you would have gotten if you hadn't made mistakes. This is an extremely important and interesting concept, and it is one of the core concepts explored in Part Three of this book. 
 
->**β**, or *beta*, the second letter of the Greek alphabet, refers to the correlation between your returns and overall market returns. When *beta* is 0, they are completely uncorrelated. For instance, if you "regularly invest in US dollars", then your returns will be completely uncorrelated with the stock market. When *beta* is 1, your returns are 100% correlated with the market. In our equation, **p = δ + α - γ**, *delta* is equivalent to a *beta* of 1.
+>**β**, or *beta*, the second letter of the Greek alphabet, refers to the correlation/ˌkôrəˈlāSHən/ between your returns and overall market returns. When *beta* is 0, they are completely uncorrelated. For instance, if you "regularly invest in US dollars", then your returns will be completely uncorrelated with the stock market. When *beta* is 1, your returns are 100% correlated with the market. In our equation, **p = δ + α - γ**, *delta* is equivalent to a *beta* of 1.
 
 For regular investors, all *alpha* comes from careful decisions that are made before starting to invest. Regular investors are lucky in that once they start investing they don't need to worry about things like choices, adjustments, or other issues that keep other investors up at night. 
 
-As you have seen, the choice of investments for regular investing doesn't require many tactics or smarts. As long as you get the process basically right you should be okay. However, the difficult part of being a regular investor is that even before you start you have to be sure that you have made your choice and will stick with it over the long term. This is probably the best example I can come up with of how something can be "simple but not easy".
+As you have seen, the choice of investments for regular investing doesn't require many tactics/ˈtaktik/ or smarts. As long as you get the process basically right you should be okay. However, the difficult part of being a regular investor is that even before you start you have to be sure that you have made your choice and will stick/stik/ with it over the long term. This is probably the best example I can come up with of how something can be "simple but not easy".
 
 ## Part Three: The Process of Regular Investing
 
