@@ -799,15 +799,15 @@ Based on the figures above, frequent traders will likely have a *gamma* of at le
 
 ### 3.2 Don't Miss It!
 
-October 19th, 1987, is known as "[Black Monday](https://en.wikipedia.org/wiki/Black_Monday)". On that day the Dow Jones Industrial Average suddenly crashed. From the beginning of the year it had risen 38%, but that day it dropped **22.6%**, and people around the world went into a panic as they watched the crash live on television. Before this, never had so many people watched such a disaster unfold on live television.
+October 19th, 1987, is known as "[Black Monday](https://en.wikipedia.org/wiki/Black_Monday)". On that day the Dow Jones Industrial Average suddenly crashed. From the beginning of the year it had risen 38%, but that day it dropped **22.6%**, and people around the world went into a panic/ˈpanik/ as they watched the crash/kraSH/ live on television. Before this, never had so many people watched such a disaster unfold on live television.
 
 ![Figure21](../images/Figure21.png)
 
-The Black Monday crash, which started in Hong Kong and spread to the rest of the world, reminded people of the stock market drop of October 28th, 1929, which also happened to be a Monday. More than twenty years after Black Monday, on September 29th, 2008, following the popping of the housing bubble, the stock market crashed again, setting off the 2008-2009 financial crisis. It was also a Monday.
+The Black Monday crash, which started in Hong Kong and spread to the rest of the world, reminded people of the stock market drop of October 28th, 1929, which also happened to be a Monday. More than twenty years after Black Monday, on September 29th, 2008, following the popping of the housing bubble/ˈbəbəl/, the stock market crashed again, setting off the 2008-2009 financial crisis. It was also a Monday.
 
-If there is a heaven there is also a hell. Or, to put it another way, without the existence of such a terrible hell, people wouldn't have such a yearning for heaven.
+If there is a heaven/ˈhevən/ there is also a hell/hel/. Or, to put it another way, without the existence of such a terrible hell, people wouldn't have such a yearning for heaven.
 
-People can't help but think, "Wouldn't it be great if I could successfully avoid the worst days of the stock market?" It wouldn't just be great, it would be fantastic! In his 2009 paper "[Black swans, market timing and the Dow](https://pdfs.semanticscholar.org/9c64/3d7ed23a1ecdb862a169ff8654e9d1fd15ef.pdf)", IESE Professor [Javier Estrada](https://www.iese.edu/faculty-research/faculty/javier-estrada/) calculated that, if you were able to avoid the **ten** worst days in the market from 1900 to 2006, your returns would increase **206%**!
+People can't help but think, "Wouldn't it be great if I could successfully avoid the worst days of the stock market?" It wouldn't just be great, it would be fantastic/fanˈtastik/! In his 2009 paper "[Black swans, market timing and the Dow](https://pdfs.semanticscholar.org/9c64/3d7ed23a1ecdb862a169ff8654e9d1fd15ef.pdf)", IESE Professor [Javier Estrada](https://www.iese.edu/faculty-research/faculty/javier-estrada/) calculated that, if you were able to avoid the **ten** worst days in the market from 1900 to 2006, your returns would increase **206%**!
 
 ![Figure22](../images/Figure22.png)
 
@@ -825,11 +825,11 @@ According to JP Morgan's [statistics](https://www.businessinsider.com/cost-of-mi
 
 ![Figure24](../images/Figure24.png)
 
-If you missed the best ten days, you would lose *66%* of your returns, which is to say that your *gamma* would be 66%. If you hadn't made mistakes, that 66% would be yours! Missing the best days has very serious consequences! As we can see in the following chart, if you started investing in 1990, but missed the best 25 days, your returns would be worse than a five-year treasury bond.
+If you missed the best ten days, you would lose *66%* of your returns, which is to say that your *gamma* would be 66%. If you hadn't made mistakes, that 66% would be yours! Missing the best days has very serious consequences! As we can see in the following chart, if you started investing in 1990, but missed the best 25 days, your returns would be worse than a five-year treasury/ˈtreZHərē/ bond/bänd/.
 
 ![Figure25](../images/Figure25.png)
 
-So, what should we do? We should do nothing! Never underestimate the power of the Daoist concept of "doing nothing". Actually, it's hard to find a better example than the the trading markets to illustrate its power.
+So, what should we do? We should do nothing! Never underestimate the power of the Daoist concept of "doing nothing". Actually, it's hard to find a better example than the the trading markets to illustrate/ˈiləˌstrāt/ its power.
 
 Scary headlines attract more eyeballs, so the media makes a bigger deal of large price drops than it does of large increases. The media always prefers to report bad news instead of good news. Aside from the fact that bad news attracts more viewers and readership, reporting bad news is also a better fit for the media's self image. After all, if the media reports good news about a person or company, people tend to suspect that they are kissing up to someone. The April 2017 event on the United Airlines flight (bad news) was widely reported, and stories about Warren Buffett losing \$20 million on his United stock (bad news) were all over the place, but no one wrote an article about how Warren Buffett's overall airline stock holdings rose by more than \$100 million that day.
 
