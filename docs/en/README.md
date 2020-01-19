@@ -1270,19 +1270,19 @@ Even simple knowledge can be this difficult, taking a long time to finally maste
 
 Logic is perhaps the clearest example. [*Beyond Feelings: A Guide to Critical Thinking*](https://www.amazon.com/Beyond-Feelings-Guide-Critical-Thinking/dp/0078038189/), which is now on its 9th edition, is the book that first taught me logic. One foggy morning I went to the library and searched for *thinking*. Among the results I saw *critical thinking*, a combination I had never seen before. I chose the book which had been updated the most times, which was *Beyond Feelings* (at the time it was on its 3rd edition). Why did I search for thinking? Because the day before two people were having a heated debate, and it pained me to discover that I thought they were both right! First, this was impossible; second, it meant that I wasn't able to think. Or, at least, something was wrong with my way of thinking. At that time I was almost 25 years old.
 
-Even though I'd learned some logic before graduating from college, and even though I had incorrectly assumed that I had very strong logic, I discovered that the difference between knowing nothing and knowing what I knew was very small. My goal was very clear, so reading the book gave me more pleasure than pain. By the time I finished I felt like an entirely new person! But that was an illusion, because I quickly discovered that I still frequently fell for logical fallacies. In retrospect, this is not surprising, since every logical fallacy has countless iterations. Slowly, this book became the book that I would re-read the most times over the course of my life. The mirror effect is ubiquitous, though, and this book that has had a huge impact on my life is [trash](https://www.amazon.com/gp/customer-reviews/R3S1K0E2LMJE8V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0078038189) in the eyes of some.
+Even though I'd learned some logic before graduating from college, and even though I had incorrectly assumed that I had very strong logic, I discovered that the difference between knowing nothing and knowing what I knew was very small. My goal was very clear, so reading the book gave me more pleasure than pain. By the time I finished I felt like an entirely new person! But that was an illusion, because I quickly discovered that I still frequently fell for logical fallacies. In retrospect, this is not surprising, since every logical fallacy has countless iterations. Slowly, this book became the book that I would re-read the most times over the course of my life. The mirror effect is ubiquitous/yo͞oˈbikwətəs/, though, and this book that has had a huge impact on my life is [trash](https://www.amazon.com/gp/customer-reviews/R3S1K0E2LMJE8V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0078038189) in the eyes of some.
 
 Was it enough to read this book multiple times? No. Several years later, when I was teaching at New Oriental, there was a period during which I taught the writing and logic portions of the GMAT. I was extremely glad that I had trained myself in logic for several years, but it was still difficult. GMAT questions are often like this:
 
 >Of the choices below (A, B, C, D, E), which, if correct, would severely weaken the author's argument?
 
-Looking back, my most valuable periods of self-teaching were repeatedly reading *Beyond Feelings* and teaching logic at New Oriental. These two periods of training myself in logic played an indispensable role in my wealth accumulation over the long term.
+Looking back, my most valuable periods of self-teaching were repeatedly reading *Beyond Feelings* and teaching logic at New Oriental. These two periods of training myself in logic played an indispensable/ˌindiˈspensəbəl/ role in my wealth/welTH/ accumulation/əˌkyo͞omyəˈlāSHən/ over the long term.
 
 Earlier, I noted the following:
 
->More than 130 common cognitive biases have been identified, and I'm sure many more will be discovered.
+>More than 130 common cognitive/ˈkägnətiv/ biases/ˈbīəs/ have been identified/īˈdentəˌfī/, and I'm sure many more will be discovered.
 
-In my Regular Investing Practice Group, I have repeatedly gone over the reasons for these cognitive biases, their effects, suggestions for how to avoid them, and recent examples. But will this be immediately effective? It won't. Almost everybody is the same, and I am certainly no exception. Every once in a while I will discover that I have once again fallen for a logical fallacy that I thought I had already taught myself to avoid. 
+In my Regular Investing Practice Group, I have repeatedly gone over the reasons for these cognitive biases, their effects, suggestions for how to avoid them, and recent examples. But will this be immediately effective? It won't. Almost everybody is the same, and I am certainly no exception. Every once in a while I will discover that I have once again fallen for a logical fallacy/ˈfaləsē/ that I thought I had already taught myself to avoid. 
 
 There's another hidden reason why the distance between knowing and doing is so great: 
 
@@ -1290,7 +1290,7 @@ There's another hidden reason why the distance between knowing and doing is so g
 
 In programming there is a concept called "[forward references](https://en.wikipedia.org/wiki/Forward_declaration#Forward_reference)", which will often cause the compiler to report an error, because, according to the programming language's rules, a variable must be declared before it can be referenced. In life, however, forward references are all over the place. The best example might be young people not understanding love in their first relationship.
 
-Another example of not becoming aware of the mirror effect until it's too late is the phenomenon of people regretting in old age not working harder earlier in life. It's easy to see in hindsight, but when most people are young they are unable to see the true importance of gaining knowledge. Their decisions are based upon independent thinking without broad experience, like a frog in the bottom of a well. Later on in life people realize the importance of knowledge and experience, but by then it is too late and they are left with regret.
+Another example of not becoming aware of the mirror effect until it's too late is the phenomenon of people regretting/riˈgret/ in old age not working harder earlier in life. It's easy to see in hindsight, but when most people are young they are unable to see the true importance of gaining knowledge. Their decisions are based upon independent thinking without broad experience, like a frog in the bottom of a well. Later on in life people realize the importance of knowledge and experience, but by then it is too late and they are left with regret/riˈgret/.
 
 All truly important activities in life are of this type:
 
@@ -1298,23 +1298,23 @@ All truly important activities in life are of this type:
 
 Love, marriage, parenting, and even birth are all like this. To do well at these things we can't just use what we learned in school. What we learned in school doesn't have forward references. We learn step by step, first this then that, and that is always based on this. This is why people always talk about how carefree life in school is. In real life, though, there is always regret as we learn new things and discover that previous decisions were incorrect. As we learn, we discover new information that would have helped us make a better decision.
 
-This is especially the case in investing. We can't base our previous decisions on what we learn in the future, so not only are we destined to have regrets, we may even lose all of our money.
+This is especially the case in investing. We can't base our previous decisions on what we learn in the future, so not only are we destined/ˈdestind/ to have regrets, we may even lose all of our money.
 
 This is one of the hidden advantages of regular investing:
 
 >Regular investing gives practitioners a long period to learn, observe, practice and make corrections. A period of at least two full cycles, which is long enough for anyone to cross the gap between knowing and doing.
 
-Because regular investors only do one thing -- buy -- they don't need to do anything else, so once they start they have plenty of time to expand their knowledge, primarily by observing the mistakes of others. This makes them the most likely cross the gap between knowing and doing. After two full cycles, they have enough knowledge and experience to make quality decisions without regret. 
+Because regular investors only do one thing -- buy -- they don't need to do anything else, so once they start they have plenty of time to expand their knowledge, primarily/prīˈme(ə)rəlē/ by observing the mistakes of others. This makes them the most likely cross the gap between knowing and doing. After two full cycles, they have enough knowledge and experience to make quality decisions without regret. 
 
 There is an investing phenomenon that is worth paying attention to, especially for long-term holders:
 
-> **The earlier the mistake the greater the long-term cost**, because the cost is compounded over the long term.
+> **The earlier the mistake the greater the long-term cost**, because the cost is compounded/ˈkämˌpound/ over the long term.
 
-Furthermore, the longer the mistake persists, the greater the effect is over the long term. We can use the following approximation to illustrate this:
+Furthermore, the longer the mistake persists/pərˈsist/, the greater the effect is over the long term. We can use the following approximation/əˌpräksəˈmāSHən/ to illustrate/ˈiləˌstrāt/ this:
 
 >98% <sup>30</sup> ≈ 54.55%
 
-Regular investors are fortunate because they do the right thing from the start, and as long as they keep doing it for two full cycles they can't make a mistake. Throughout this process of not making mistakes there are only two things they need to do: 1) constantly strengthen their ability to make money outside of the market, and 2) more importantly, constantly learn about investing, patiently crossing the gap between knowing and doing.
+Regular investors are fortunate/ˈfôrCHənət/ because they do the right thing from the start, and as long as they keep doing it for two full cycles they can't make a mistake. Throughout this process of not making mistakes there are only two things they need to do: 1) constantly strengthen their ability to make money outside of the market, and 2) more importantly, constantly learn about investing, patiently crossing the gap between knowing and doing.
 
 ### 4.5 The Border Between Active and Passive
 
